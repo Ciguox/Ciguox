@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-- Born in Cuba, raised in Spain, like oranges.
+- Born in Cuba, raised in Spain... Like oranges!
 - I studied Computer Science at 'Universidad de Alicante' (on hold), currently studing software development in Madrid.
 - I want to become a full sttack developer in the next 2 years.
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - MongoDB
 
 ### ⚡ Fun facts:
-- I'm a great cook spetialy mexican food!
-- I started learning code becouse minecraft mods crassed my pc
-- I did 2 years of Art Studies in Madrid, not 4 me tho
+- I'm a great cook. I'm specially good at mexican food!
+- I started learning code because minecraft mods crashed my PC
+- I studied arts in Madrid for 2 years. Not 4 me tho
 
 #30NitesOfCode [Check out my progress!](https://www.codedex.io/@Ciguox/30-nites-of-code)  
 ![@Ciguox #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ciguox)
