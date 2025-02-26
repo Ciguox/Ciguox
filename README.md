@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 - I started learning code because minecraft mods crashed my PC
 - I studied arts in Madrid for 2 years. Not 4 me tho
 
-#30NitesOfCode [Check out my progress!](https://www.codedex.io/@Ciguox/30-nites-of-code)  
-![@Ciguox #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ciguox)
-
 
